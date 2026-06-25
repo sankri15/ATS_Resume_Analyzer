@@ -4,7 +4,7 @@
 The Smart Resume Scoring & Improvement Tool is a web application that analyzes a user’s resume against a job description and generates an ATS compatibility score. It highlights missing keywords, evaluates skill matching, and provides clear suggestions to improve the resume for better chances of passing Applicant Tracking Systems (ATS) used by recruiters.
 
 
-Live Demo: https://
+Live Demo: https://ats-phi-ruddy.vercel.app
 ---
 ## 📸 Project Preview
 <img width="1517" height="797" alt="dg2" src="https://github.com/user-attachments/assets/8afb1f72-f2dc-4f12-8c2b-27a5a739cf11" />
