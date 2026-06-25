@@ -7,7 +7,9 @@ The Smart Resume Scoring & Improvement Tool is a web application that analyzes a
 Live Demo: https://ats-phi-ruddy.vercel.app
 ---
 ## 📸 Project Preview
-<img width="1517" height="797" alt="dg2" src="https://github.com/user-attachments/assets/8afb1f72-f2dc-4f12-8c2b-27a5a739cf11" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d2d3cbe6-df25-40df-8bac-b59dc03d2640" width="800"/>
+</p>
 
 
 ---
