@@ -1,20 +1,71 @@
-<<<<<<< HEAD
-# React + Vite
+# 🚀 ATS Resume Analyzer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## ⚡ Smart Resume Scoring & Improvement Tool
+The Smart Resume Scoring & Improvement Tool is a web application that analyzes a user’s resume against a job description and generates an ATS compatibility score. It highlights missing keywords, evaluates skill matching, and provides clear suggestions to improve the resume for better chances of passing Applicant Tracking Systems (ATS) used by recruiters.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Live Demo: https://
+---
+## 📸 Project Preview
+<img width="1517" height="797" alt="dg2" src="https://github.com/user-attachments/assets/8afb1f72-f2dc-4f12-8c2b-27a5a739cf11" />
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧠 About the Project
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# ats-resume-analyzer
->>>>>>> e0050a39daec89bf7f8fc28a83c6fc3c185921af
+The **ATS Resume Analyzer** is a modern web application that evaluates resumes against job descriptions and generates an **ATS compatibility score** with detailed improvement suggestions.
+
+It helps users understand how well their resume matches industry standards used in Applicant Tracking Systems (ATS).
+
+---
+
+## ✨ Key Features
+
+- 📊 ATS Score Generation  
+- 🔍 Resume & Job Description Matching  
+- 🧠 Skill Detection & Keyword Analysis  
+- 💡 Smart Improvement Suggestions  
+- 🎯 Clean and Interactive UI  
+- ⚡ Fast and Responsive Performance  
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React (Vite)
+- 🎨 CSS3
+- ⚡ JavaScript (ES6+)
+- 🧠 Custom ATS Logic (`atsAnalyzer.js`)
+
+---
+
+## 📁 Project Structure
+The project follows a React (Vite) component-based architecture.
+
+## 🔹 Root Level Files
+
+index.html → Entry HTML file for the app 
+
+package.json → Project dependencies and scripts  
+
+package-lock.json → Dependency lock file  
+
+vite.config.js → Vite configuration 
+
+eslint.config.js → Code linting rules  
+
+vercel.json → Deployment configuration  
+
+README.md → Project documentation  
+
+🌐 Deployment
+
+You can deploy this project on:
+
+🔥 Vercel
+🌍 Netlify
+⚡ GitHub Pages
+👤 Author
+
+Sanjana Pal
